@@ -1,6 +1,6 @@
 # os222
 
-[GitHub Page](https://cbkadal.github.io/os222/) ---
+[GitHub Page](https://danielcm585.github.io/os222/) ---
 [TARBALL](SandBox/danielcm585.tar.xz) ---
 [myLOG](TXT/mylog.txt) ---
 [GitHub](https://github.com/danielcm585/os222/)
