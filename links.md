@@ -32,9 +32,16 @@ Devhints is a collection of cheatsheets for many kind of programming language, i
 
 ## W02
 
-1. [Explaing Shell](https://explainshell.com/)
+1. [Explain Shell](https://explainshell.com/)
 Explain shell is a website that contains many useful explanation of commonly used in shell script commands.
 
-2. [Guru99](https://www.guru99.com/file-systems-operating-system.html)
-Guru99 provides a complete explanation about how operating system manages file and other things related to file management system.
+2. [Medium](https://medium.com/javarevisited/6-best-operating-system-courses-for-beginners-to-learn-7d727882d267)
+This website contains a list of operating system courses you can use to upgrade your skill.
 
+## W03
+
+1. [Guru99](https://www.guru99.com/file-systems-operating-system.html)
+Guru99 provides a complete explanation about how operating system manages file and other things related to file management system
+
+2. [TutorialsPoint](https://www.tutorialspoint.com/operating_system/index.htm)
+Tutorials Point gives a structured lesson about operating system that can help you understand better.
