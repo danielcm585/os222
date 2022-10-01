@@ -45,3 +45,14 @@ Guru99 provides a complete explanation about how operating system manages file a
 
 2. [TutorialsPoint](https://www.tutorialspoint.com/operating_system/index.htm)
 Tutorials Point gives a structured lesson about operating system that can help you understand better.
+
+## W04
+
+1. [FreeCodeCamp](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
+FreeCodeCamp provides a wonderful crash course to learn bash scripting.
+
+2. [Programiz](https://www.programiz.com/c-programming)
+Programiz has a complete course to learn C language from basic to advanced.
+
+3. [W3School](https://www.w3schools.com/c/)
+W3School has every tutorial for C that is organized in chapters. It also provides some exercises.
