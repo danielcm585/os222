@@ -56,3 +56,11 @@ Programiz has a complete course to learn C language from basic to advanced.
 
 3. [W3School](https://www.w3schools.com/c/)
 W3School has every tutorial for C that is organized in chapters. It also provides some exercises.
+
+## W05
+
+1. [Javatpoint](https://www.javatpoint.com/how-to-check-ram-in-linux)
+This page contains guides to observe and learn about RAM in Linux.
+
+2. [Linux Journey](https://linuxjourney.com/)
+Linux journey contains a step-to-step guide to learn Linux. It also provides it in a fun way.
