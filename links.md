@@ -64,3 +64,11 @@ This page contains guides to observe and learn about RAM in Linux.
 
 2. [Linux Journey](https://linuxjourney.com/)
 Linux journey contains a step-to-step guide to learn Linux. It also provides it in a fun way.
+
+## W06
+
+1. [GeeksForGeeks](https://www.geeksforgeeks.org/fork-system-call/)
+GeeksForGeeks has a detail explanation about forking process in C.
+
+2. [TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+This web page contains explanation about processes in operating system.
