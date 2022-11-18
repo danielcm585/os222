@@ -68,3 +68,11 @@ ZCZC W07  80 L05 Quiz related
 ZCZC W07  30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 200 L09 Weekly Assignments
 ZCZC W07 200 L99 Face-to-face Lecture
+
+ZCZC W08  30 L00 General, etc.
+ZCZC W08  30 L01 SCELE/Discord related
+ZCZC W08  10 L03 Github related
+ZCZC W08  70 L05 Quiz related
+ZCZC W08  25 L05 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 300 L09 Weekly Assignments
+ZCZC W08 200 L99 Face-to-face Lecture

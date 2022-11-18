@@ -72,3 +72,16 @@ GeeksForGeeks has a detail explanation about forking process in C.
 
 2. [TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_processes.htm)
 This web page contains explanation about processes in operating system.
+
+## W07
+
+1. [TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+Provides good explanation about processes.
+
+## W08
+
+1. [StudyTonight](https://www.studytonight.com/operating-system/operating-system-processes)
+Provides good and clear explanation about processes in Operating System.
+
+2. [byjus](https://byjus.com/gate/process-in-operating-system-notes/)
+Helps to learn and understand processes in Operating System.
